@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umberto Serino</h1>
 <h3 align="center">A passionate Full-Stack Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umbertoserino&label=Profile%20views&color=0e75b6&style=flat" alt="umbertoserino" /> </p>
-
 - 🔭 I’m currently working on [deliveboo-php-g2](https://github.com/UmbertoSerino/deliveboo-php-g2)
 
 - 🌱 I’m currently learning **Laravel, Vue, Bootstrap**
